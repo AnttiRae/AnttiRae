@@ -1,9 +1,14 @@
 ### Hi there 👋
 I am an beginner software developer looking for cool projects and love coding in my freetime. 
+Currently working as a developer at Perjantai Markkinointiviestintä Oy.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnttiRae&hide=stars&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnttiRae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+My Top Languages:
+1. Python
+2. Javascript
+3. HTML/CSS
+4. Shell
 
 📫 How to reach me: anttiraework@gmail.com
 <!--
