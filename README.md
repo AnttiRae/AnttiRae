@@ -1,6 +1,4 @@
 ### Hi there 👋
-I am a beginner software developer looking for cool projects and love coding in my freetime. 
-Currently working as a developer at Perjantai Markkinointiviestintä Oy.
 
 My Top Languages:
 1. Python
